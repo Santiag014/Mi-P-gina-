@@ -1,0 +1,207 @@
+body{
+    background-image:url(Fondo.jpg)
+}
+
+body div{
+    width: 830px;
+    height: 1510px;
+    background-color: gray;
+    margin: auto;
+    padding-top: 15px;
+}
+
+body div div{
+    width: 805px;
+    height: 1480px;
+    background-color: darkgray;   
+}
+    
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    text-shadow: 5px 2px rgb(129, 129, 129);
+    text-align: center;
+}
+.Aside_1{
+    background-color: gray;
+    width: 250px;
+    height: 250px;
+    display: grid;
+    margin-left: 10px;
+    float: left;
+}
+
+.img1{
+    width: 230px;
+    height: 230px;
+    padding: 10px;
+}
+
+.Aside_2{
+    background-color: gray;
+    width: 520px;
+    height: 250px;
+    display: grid;    
+    margin-left: 15px;
+    margin-bottom: 15px;
+    float: left;
+}
+.Aside_2 h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+}
+.Aside_2 p{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    font-family: 'Andada Pro', serif;
+}
+
+.Aside_3{
+    background-color: gray;
+    width: 350px;
+    height: 360px;
+    display: grid;
+    margin-left: 15px;
+    float: left; 
+}
+
+.Aside_3 h4{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+iframe{
+    width: 330px;
+    height: 250px;
+    float: left;
+    padding-left: 10px;
+}
+
+.Aside_3 p{
+    text-align: justify;
+    font-size: smaller;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Andada Pro', serif;
+}
+
+.Aside_4{
+    background-color: gray;
+    width: 415px;
+    height: 360px;
+    float: left;
+    display: grid;
+    margin-left: 15px;
+}
+.Aside_4 h2{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+
+}
+audio{
+    margin-left: 55px;
+}
+
+.parrafoaudio{
+    text-align: center;
+    font-size: smaller;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: 'Andada Pro', serif;
+}
+
+.Aside_5{
+    background-color: gray;
+    width: 785px;
+    height: 240px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    display: grid;
+}
+
+table{
+    margin: auto;
+   
+}
+
+caption{
+    padding-top: 0px;
+    font-size: x-large;
+    font-family: 'Lobster', cursive;
+}
+
+table,th,td{
+    border: 1px solid black;
+    
+}
+
+table th{
+    background-color: rgb(85, 83, 83);
+    font-family: 'Lobster', cursive;
+}
+table td{
+    font-family: 'Andada Pro', serif;
+    text-align: center  ;
+}
+tfoot td{
+    background-color: rgb(85, 83, 83);
+    font-family: 'Lobster', cursive;
+}
+
+.Aside_6{
+    background-color: gray;
+    width: 425px;
+    height: 410px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    display: grid;
+}
+
+.Aside_6 p{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: justify;
+}
+.Aside_6 h2{
+    text-align: center;
+    font-family: 'Lobster', cursive;    
+
+}
+.Aside_7{
+    background-color: gray;
+    height: 410px;
+    width: 350px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    display: grid;
+}
+
+.img2{
+    width: 330px;
+    height: 390px;
+    padding: 10px;
+}
+
+.Aside_8{
+    display: grid;
+    background-color: gray;
+    width: 785px;
+    height: 50px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+.Aside_8 p{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 500;
+    text-align: center;
+}
+
+
